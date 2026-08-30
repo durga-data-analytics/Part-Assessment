@@ -1,2 +1,2 @@
-Completed Assignment 1 with basic data analysis and Excel functions. Performed data cleaning, calculations,and formatting using basic functions such as SUM, COUNT, AVERAGE, MIN, MAX, and IF.
-Analysed the dataset and derived basic insights from the data
+Assignment 1 - Completed Assignment 1 with basic data analysis and Excel functions. Performed data cleaning, calculations, and formatting using basic functions such as SUM, COUNT, AVERAGE, MIN, MAX, and IF. Analysed the dataset and derived basic insights from the data
+Assignment 2 - Completed Assignment 2 with data cleaning and data formatting. Handled missing values, duplicates, typos, inconsistent text, and standardized the dataset. Used Excel functions and formatting techniques to clean, organize, and prepare the data for analysis.
